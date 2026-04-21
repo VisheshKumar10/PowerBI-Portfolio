@@ -74,7 +74,7 @@ Aspiring Data Analyst with strong skills in Power BI, data visualization, and da
 
 * Tracks sales performance, revenue trends, and regional analysis
 * Helps identify top-performing products and markets
-  👉 [View Project](./Mobile Sales)
+  👉 [View Project](./Mobile-Sales)
 
 ---
 
@@ -82,7 +82,7 @@ Aspiring Data Analyst with strong skills in Power BI, data visualization, and da
 
 * Analyzes accident trends, locations, and severity
 * Helps understand risk factors and improve safety measures
-  👉 [View Project](./Road Accident Insights)
+  👉 [View Project](./Road-Accident-Insights)
 
 ---
 
@@ -95,11 +95,6 @@ Aspiring Data Analyst with strong skills in Power BI, data visualization, and da
 
 ---
 
-## 📷 Featured Dashboard
-
-(Add your best dashboard screenshot here)
-
----
 
 ## 🔗 Connect with Me
 
