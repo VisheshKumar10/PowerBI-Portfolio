@@ -45,15 +45,10 @@ Aspiring Data Analyst with strong skills in Power BI, data visualization, and da
 
 ---
 
-## 📷 Featured Dashboard
-
-(Add your best dashboard screenshot here)
-
----
 
 ## 🔗 Connect with Me
 
-* LinkedIn: (Add your link)
-* GitHub: (Your profile)
+* LinkedIn: https://www.linkedin.com/in/vishesh-dhiman10/
+* GitHub: https://github.com/VisheshKumar10
 
 ---
